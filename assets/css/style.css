@@ -174,10 +174,13 @@ footer {
     -o-transition: all 0.35s easy-in-out;
 }
 
-.social-links li a:hover {
+.social-links li a i:hover {
     background: #e84610;
 }
 
+#footer-details {
+    padding: 20px;
+}
 
 
 
